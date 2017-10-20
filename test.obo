@@ -10727,3 +10727,8 @@ name: scale_of
 id: variable_of
 name: variable_of
 
+
+[Term]
+id: CO_334:0000xxx
+name: new name
+
